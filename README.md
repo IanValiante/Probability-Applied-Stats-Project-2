@@ -6,10 +6,10 @@ This repository contains the second project for the Probability and Applied Stat
 
 The project is organized into the following parts:
 
-- **Part1**: [Generates Graphs using No libraries, MATLAB, and JFREEChart with Apache math commons respectively. There is also a report for each PSS.]
-- **Part2**: [Includes the csvs, graphs, python scripts, and a report that uses the csvs and histograms generated to create questions for each section covered.]
-- **Part3**: [Includes a screenshot of hello world, and a report on my attempt to port the Pokemon game to Android app.]
-- **Supplemental Parts**: [Includes Stats Library and a tester class, as well as the formula sheet. ]
+- **Part1**: Generates Graphs using three different ways: Using no libraries, using MATLAB, and using JFREEChart with Apache math commons respectively. There is also a report for each PSS.
+- **Part2**: Includes the csvs, graphs, python scripts, and a report that uses the csvs and histograms generated to create questions for each section covered.
+- **Part3**: Includes a screenshot of hello world, and a report on my attempt to port the Pokemon game to Android app.
+- **Supplemental Parts**: Includes Stats Library and a tester class, as well as the formula sheet. 
 
 ## Features
 
